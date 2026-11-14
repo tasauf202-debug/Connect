@@ -1,0 +1,6 @@
+{
+  "name": "Connecta",
+  "description": "Social news feed, real-time messaging chat, and role-based admin control panel Android app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Connecta</string>
+    <string name="auth_subtitle">সোশ্যাল মিডিয়া ও চ্যাট অ্যাপ</string>
+    <string name="sign_in_with_google">গুগল দিয়ে প্রবেশ করুন</string>
+    <string name="auth_checking">যাচাই করা হচ্ছে...</string>
+    <string name="auth_security_note">Google Sign-In দ্বারা সুরক্ষিত • রোল-ভিত্তিক অ্যাক্সেস</string>
+    <string name="cd_hero_banner">Connecta community illustration</string>
+    <string name="cd_empty_feed">Empty feed illustration</string>
+    <string name="cd_profile_avatar">User profile avatar</string>
+    <string name="cd_back">ফিরে যান</string>
+
+    <string name="feature_feed_title">সোশ্যাল নিউজ ফিড</string>
+    <string name="feature_feed_desc">পোস্ট, ছবি, লাইক এবং কমেন্ট শেয়ার করুন সবার সাথে।</string>
+    <string name="feature_chat_title">মেসেজেস ও চ্যাট</string>
+    <string name="feature_chat_desc">রিয়েল-টাইম প্রাইভেট ও গ্রুপ চ্যাটে যুক্ত থাকুন।</string>
+    <string name="feature_role_title">রোল-ভিত্তিক সিক্রেট অ্যাডমিন প্যানেল</string>
+    <string name="feature_role_desc">অ্যাডমিন অ্যাকাউন্ট দিয়ে ইউজার, ব্রডকাস্ট ও মডারেশন নিয়ন্ত্রণ করুন।</string>
+
+    <string name="nav_feed">নিউজ ফিড</string>
+    <string name="nav_chats">চ্যাট</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="nav_admin">অ্যাডমিন প্যানেল</string>
+
+    <string name="profile_title">আমার প্রোফাইল</string>
+    <string name="profile_verification_title">ভেরিফিকেশন স্ট্যাটাস</string>
+    <string name="profile_verified_title">ভেরিফাইড অ্যাকাউন্ট (Blue Tick)</string>
+    <string name="profile_verified_desc">আপনার অ্যাকাউন্টটি অ্যাডমিন কর্তৃক ভেরিফাইড। আপনার পোস্ট এবং চ্যাটে ভেরিফাইড ব্লু টিক দেখাচ্ছে।</string>
+    <string name="profile_unverified_title">ভেরিফাইড নয় (Unverified)</string>
+    <string name="profile_unverified_desc">আপনার অ্যাকাউন্টে এখনও ব্লু টিক ব্যাজ যুক্ত হয়নি। অ্যাডমিন অনুমোদন দিলে এখানে ভেরিফাইড স্ট্যাটাস দেখতে পাবেন।</string>
+    <string name="profile_edit_section">প্রোফাইল তথ্য সম্পাদনা</string>
+    <string name="profile_display_name_label">ডিসপ্লে নাম</string>
+    <string name="profile_bio_label">সংক্ষিপ্ত পরিচিতি (Bio)</string>
+    <string name="profile_save_button">পরিবর্তন সংরক্ষণ করুন</string>
+    <string name="profile_details_section">অ্যাকাউন্টের বিবরণ</string>
+    <string name="profile_open_profile">প্রোফাইল দেখুন ও নাম এডিট করুন</string>
+    <string name="profile_visibility_title">প্রোফাইল দৃশ্যমানতা (Privacy)</string>
+    <string name="profile_visibility_subtitle">আপনার প্রোফাইল কারা দেখতে পাবে তা নির্বাচন করুন</string>
+    <string name="profile_visibility_public">পাবলিক (Public)</string>
+    <string name="profile_visibility_public_desc">সকল ইউজার আপনার প্রোফাইল দেখতে ও চ্যাট শুরু করতে পারবে।</string>
+    <string name="profile_visibility_friends">শুধু বন্ধু (Friends)</string>
+    <string name="profile_visibility_friends_desc">পাবলিক ডিরেক্টরি থেকে লুকানো থাকবে; শুধু চ্যাট ও পরিচিত বন্ধুরা দেখতে পারবে।</string>
+    <string name="profile_visibility_private">ব্যক্তিগত (Private)</string>
+    <string name="profile_visibility_private_desc">শুধুমাত্র আপনি এবং অ্যাডমিন দেখতে পারবেন; অন্য সবার জন্য সম্পূর্ণ গোপন থাকবে।</string>
+    <string name="profile_visibility_public_short">পাবলিক</string>
+    <string name="profile_visibility_friends_short">শুধু বন্ধু</string>
+    <string name="profile_visibility_private_short">ব্যক্তিগত</string>
+
+    <string name="feed_title">সোশ্যাল নিউজ ফিড</string>
+    <string name="feed_compose_hint">আপনার মনের কথা বা স্ট্যাটাস শেয়ার করুন...</string>
+    <string name="feed_empty_title">এখনও কোনো পোস্ট নেই</string>
+    <string name="feed_empty_subtitle">প্রথম পোস্টটি করে সবার জন্য ফিড শুরু করুন!</string>
+    <string name="feed_create_post">নতুন পোস্ট</string>
+    <string name="feed_publish">প্রকাশ করুন</string>
+    <string name="feed_comments_title">কমেন্টস</string>
+    <string name="feed_comment_hint">আপনার মন্তব্য লিখুন...</string>
+    <string name="feed_banned_notice">আপনার অ্যাকাউন্টটি মডারেশনের কারণে সীমাবদ্ধ করা হয়েছে।</string>
+    <string name="feed_posts_paused">অ্যাডমিন সাময়িকভাবে নতুন পোস্ট করা বন্ধ রেখেছেন।</string>
+
+    <string name="chats_title">মেসেজেস ও চ্যাট</string>
+    <string name="chats_search_hint">চ্যাট বা সদস্য খুঁজুন...</string>
+    <string name="chats_empty_title">কোনো চ্যাট পাওয়া যায়নি</string>
+    <string name="chats_empty_subtitle">নতুন প্রাইভেট বা গ্রুপ চ্যাট শুরু করতে নিচের বাটনে ট্যাপ করুন।</string>
+    <string name="chats_new_chat">নতুন চ্যাট</string>
+    <string name="chats_private_tab">প্রাইভেট চ্যাট</string>
+    <string name="chats_group_tab">গ্রুপ চ্যাট</string>
+    <string name="chats_message_hint">মেসেজ লিখুন...</string>
+    <string name="chats_paused">অ্যাডমিন সাময়িকভাবে নতুন চ্যাট তৈরি বন্ধ রেখেছেন।</string>
+
+    <string name="admin_title">অ্যাডমিন কন্ট্রোল প্যানেল</string>
+    <string name="admin_subtitle">স্বাগতম! এই সিক্রেট প্যানেলটি শুধুমাত্র আপনার নিয়ন্ত্রণে রয়েছে।</string>
+    <string name="admin_tab_users">ইউজার ম্যানেজমেন্ট</string>
+    <string name="admin_tab_broadcast">ব্রডকাস্ট</string>
+    <string name="admin_tab_moderation">মডারেশন</string>
+    <string name="admin_verify_title">ভেরিফাইড ব্যাজ (Blue Tick) ম্যানেজমেন্ট</string>
+    <string name="admin_verify_card_title">নতুন ইউজারকে ব্লু টিক দিন</string>
+    <string name="admin_verify_input_hint">ইউজারের নাম বা ইমেল লিখুন</string>
+    <string name="admin_verify_button">ভেরিফাইড ব্যাজ প্রদান করুন</string>
+    <string name="admin_filter_all_users">সব ইউজার</string>
+    <string name="admin_filter_verified_users">ভেরিফাইড ইউজার লিস্ট</string>
+
+    <string name="account_sign_out">সাইন আউট</string>
+    <string name="role_admin_badge">অ্যাডমিন</string>
+    <string name="role_user_badge">সাধারণ ইউজার</string>
+    <string name="cd_verified_badge">ভেরিফাইড ব্লু টিক</string>
+    <string name="verified_badge_label">ভেরিফাইড অ্যাকাউন্ট</string>
+</resources>
